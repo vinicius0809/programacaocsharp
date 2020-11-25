@@ -7,3 +7,4 @@ Para executar o projeto corretamente é necessário editar a _key_ "NomePasta" c
 **OBS:**
 1. No projeto **API** criei uma fila em **.txt**. Um arquivo com os itens da fila será criado no caminho configurado na _key_ "NomePasta" no _web.config_;
 2. Os resultados do processamento do projeto **ConsomeAPI** serão escritos no caminho configurado na _key_ "NomePasta" no _app.config_;
+3. Foi utilizado .NET Framework 4.8.
