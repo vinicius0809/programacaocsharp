@@ -1,1 +1,0 @@
-[{"moeda":"USD","data_inicio":"2010-01-01","data_fim":"2010-12-01"},{"moeda":"EUR","data_inicio":"2010-01-01","data_fim":"2020-12-01"},{"moeda":"JPY","data_inicio":"2000-03-11","data_fim":"2000-03-30"}]
